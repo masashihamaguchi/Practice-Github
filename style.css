@@ -5,7 +5,7 @@ body {
 }
 
 .gradation {
-  animation: gradationTest 5s infinite;
+  animation: gradationTest 10s infinite;
 }
 
 @keyframes gradationTest {
