@@ -36,7 +36,7 @@ L4S WebDチームの中にリポジトリが新しく作られます。
 
 ssh設定をするとpushする時にいちいちユーザー名とパスワードを入力することなく簡単にできるようになります。詳しく書くと長くなるので、とりあえず簡単にGithubとやりとりできるようになると覚えておけばOK！ssh設定をしてない人は参考ページを最後に載せているので、設定するのがオススメ！
 
-<img alt="image" width="400"  src="https://user-images.githubusercontent.com/21216852/93662450-240e1900-fa9b-11ea-994e-a3ffc3731fca.png"><br>
+<img alt="image" width="400"  src="https://user-images.githubusercontent.com/21216852/98015335-04129900-1e40-11eb-9faf-75b5a12b6e1a.png"><br>
 
 ターミナルでプロジェクトをダウンロードしたい場所に移動する。
 （今回はデスクトップにプロジェクトファイルを保存します）
